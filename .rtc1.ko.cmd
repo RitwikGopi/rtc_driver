@@ -1,0 +1,1 @@
+cmd_/home/stark/fm2016/git/staging-next/kern/rtc_driver/rtc1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/stark/fm2016/git/staging-next/kern/rtc_driver/rtc1.ko /home/stark/fm2016/git/staging-next/kern/rtc_driver/rtc1.o /home/stark/fm2016/git/staging-next/kern/rtc_driver/rtc1.mod.o
